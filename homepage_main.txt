@@ -1,0 +1,116 @@
+========
+<theImage>
+news_img/AIPK_1.png
+
+<end>
+
+<theTitle>
+AI跨域交流觀摩會 台大人工智慧中心表現優異
+
+<end>
+
+<theContent>
+科技部為了促進四個人工智慧創新研究中心之交流，108年1月4日於成大舉辦第一場「AI跨域交流觀摩會」，台大人工智慧技術暨全幅健康照護聯合研究中心榮獲綜合表現獎前三名，依序為徐宏民教授團隊、黃升龍教授團隊、以及李祈均教授團隊。李祈均教授團隊同時獲得最佳展示獎第三名。
+<end>
+
+<theUrl>
+http://news.secr.ncku.edu.tw/p/405-1037-188496,c5934.php
+<end>
+
+========
+<theImage>
+news_img/paper.png
+
+<end>
+
+<theTitle>
+中心研究成果豐碩
+
+<end>
+
+<theContent>
+中心研究成果豐碩，至2018年12月底為止，人工智慧技術子中心轄下計畫研究團隊，共發表40篇國際期刊論文、157篇國際會議論文、以及3本人工智慧專書。其中包括頂級國際會議論文有4篇CVPR, 4篇IJCAI, 5篇SIGGRAPH, 2篇ACL, 6篇ＷＷＷ, 1篇SIGIR, 2篇AAAI以及1篇NIPS等。全幅健康照護子中心轄下計畫研究團隊，共發表49篇國際期刊論文、60篇國際會議論文、2項國內專利申請、參加1項國際級競賽及舉辦2項國際級AI黑客松比賽，所發表的國際期刊多為SCI知名期刊。
+<end>
+
+<theUrl>
+news.html
+<end>
+
+========
+<theImage>
+news_img/CVPR_Competition.jpg
+
+<end>
+
+<theTitle>
+World's #1 in Disguised Faces in the Wild
+
+<end>
+
+<theContent>
+計畫主持人徐宏民教授：在世界頂級電腦視覺會議 CVPR 2018 所舉辦的偽裝人臉辨識競賽 (Disguised Faces in the Wild）獲得世界第一。
+<end>
+
+<theUrl>
+https://challenge.gov/challenge/disguised-faces-in-the-wild-competition/
+<end>
+========
+<theImage>
+news_img/ageDEMO.jpg
+
+<end>
+
+<theTitle>
+SSR-Net for Age Estimation (IJCAI 2018)
+
+<end>
+
+<theContent>
+計畫共同主持人莊永裕教授，提出新的人臉影像年紀估測模型，與最好的模型差距0.5歲，但參數不到其1/1000，模型參數僅0.3MB，非常適合於嵌入式系統，成果發表於頂級人工智慧國際會議 IJCAI 2018。
+
+<end>
+
+<theUrl>
+https://www.csie.ntu.edu.tw/~cyy/publications/papers/Yang2018SSR.pdf
+<end>
+
+
+========
+<theImage>
+news_img/1806251.jpg
+
+<end>
+
+<theTitle>
+World's #2 in DeepGlobe Land Cover Classification
+
+<end>
+
+<theContent>
+計畫主持人王鈺強教授：在世界頂級電腦視覺會議 CVPR 2018 所舉辦的 DeepGlobe Land Cover Classification 競賽 獲得世界第二。
+
+<end>
+
+<theUrl>
+pdf/brochure.pdf
+<end>
+========
+<theImage>
+events_img/Yang_1.png
+
+<end>
+
+<theTitle>
+AI-Meetup: AI/ML的創新與旅程
+
+<end>
+
+<theContent>
+為培育AI人才視野的深度與廣度，以及增進AI知識工具的開發與應用。台大人工智慧技術中心將在2月21日星期四於台大資訊系德田館R102舉辦 The 5th AI-Meetup，本次主題為「AI/ML的創新與旅程」，由電商亞馬遜楊仲豪博士分享亞馬遜與人工智慧的經驗，非常寶貴，我們誠摯地邀請您共襄盛舉！
+<end>
+
+<theUrl>
+https://ppt.cc/frbWax
+<end>
+
+
