@@ -1,6 +1,13 @@
 # DP_NER
 
 
+ELEMENT - 原始Template
+homepage_main.txt, events_list.txt, news_list.txt 要被加入的資料
+index_part_A.html, index_part_B.html, index_part_C.html 要被加入的樣板h
+index.html 要被呈現的首頁
+
+
+
 
 https://www.myresponsee.com/
 https://www.myresponsee.com/responsive-framework-doc/sliding-nav-panel/
